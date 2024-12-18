@@ -1,7 +1,7 @@
-﻿using Repository.Models;
+﻿using Design_Patterns.Structural.Repository.Models;
 using System.Net;
 
-namespace Repository.Repositories
+namespace Design_Patterns.Structural.Repository.Repositories
 {
     public class ProductRepository
     {

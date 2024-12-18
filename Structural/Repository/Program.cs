@@ -1,5 +1,5 @@
-﻿using Repository.Models;
-using Repository.Repositories;
+﻿using Design_Patterns.Structural.Repository.Models;
+using Design_Patterns.Structural.Repository.Repositories;
 
 Product product = new Product() { Id = 1 };
 

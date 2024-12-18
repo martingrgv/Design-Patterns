@@ -1,6 +1,6 @@
-﻿using Repository.Models;
+﻿using Design_Patterns.Structural.Repository.Models;
 
-namespace Repository.Repositories
+namespace Design_Patterns.Structural.Repository.Repositories
 {
     public class UserRepository
     {

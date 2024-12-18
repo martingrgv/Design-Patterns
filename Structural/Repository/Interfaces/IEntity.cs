@@ -1,4 +1,4 @@
-﻿namespace Repository.Interfaces
+﻿namespace Design_Patterns.Structural.Repository.Interfaces
 {
     public interface IEntity
     {
